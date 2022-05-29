@@ -1,0 +1,2 @@
+# kombinasyon
+Kombinasyon hesaplama
